@@ -7,7 +7,21 @@ https://thelinuxcode.com/how-to-remove-html-tags-but-keep-contents-using-beautif
 https://www.geeksforgeeks.org/python/detect-an-unknown-language-using-python/
 https://www.geeksforgeeks.org/python/how-to-drop-rows-that-contain-a-specific-string-in-pandas/
 
+Santi scores:
+https://www.geeksforgeeks.org/machine-learning/recommendation-system-in-python/
+https://www.datacamp.com/tutorial/recommender-systems-python
 
-Decisión final del EDA:
+Si quisieramos usar TF-IDF o Word2Vec:
+https://procodebase.com/article/best-practices-for-text-preprocessing-in-embedding-generation
 
-Qué información usar: El texto de la reseña, el género, el artista y el score.
+Experimento para santi para ver q variante va mejor (chat):
+
+    La forma de comprobarlo es pasar un disco muy famoso (ej. el Discovery de Daft Punk) por el modelo de embeddings usando las 3 variantes y calcular la Similitud del Coseno con el resto de discos.
+
+    Santi puede mirar a "ojo" el Top 5 de recomendaciones que saca cada variante para ese disco:
+
+    Si la Variante A recomienda otros discos de electrónica franceses de esa época. -> Funciona bien.
+
+    Si la Variante B recomienda discos de Jazz o Rap solo porque casualmente tienen la misma nota (ej. 10.0) y salieron el mismo año. -> El metadato ha introducido ruido.
+
+    Si la Variante C recomienda discos que tienen descripciones con palabras como "sintetizadores", "baile" y "voces robóticas" (aunque sean de otro año o nota). -> El modelo está entendiendo la semántica pura.
