@@ -6,6 +6,7 @@ https://www.geeksforgeeks.org/data-analysis/how-to-chunk-text-data-a-comparative
 https://thelinuxcode.com/how-to-remove-html-tags-but-keep-contents-using-beautifulsoup/
 https://www.geeksforgeeks.org/python/detect-an-unknown-language-using-python/
 https://www.geeksforgeeks.org/python/how-to-drop-rows-that-contain-a-specific-string-in-pandas/
+https://alicege005.medium.com/creating-a-simple-recommendation-system-based-on-tf-idf-and-counter-vectorizer-b3c91aa3aff0
 
 Santi scores:
 https://www.geeksforgeeks.org/machine-learning/recommendation-system-in-python/
