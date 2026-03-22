@@ -7,6 +7,16 @@ https://thelinuxcode.com/how-to-remove-html-tags-but-keep-contents-using-beautif
 https://www.geeksforgeeks.org/python/detect-an-unknown-language-using-python/
 https://www.geeksforgeeks.org/python/how-to-drop-rows-that-contain-a-specific-string-in-pandas/
 https://alicege005.medium.com/creating-a-simple-recommendation-system-based-on-tf-idf-and-counter-vectorizer-b3c91aa3aff0
+https://numpy.org/devdocs/reference/generated/numpy.save.html
+
+
+Models:
+https://ai.google.dev/gemini-api/docs/embeddings?hl=es-419
+https://huggingface.co/BAAI/bge-m3
+https://huggingface.co/intfloat/e5-base-v2?utm_source=chatgpt.com
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2?utm_source=chatgpt.com
+https://developers.openai.com/api/docs/models/text-embedding-3-small?utm_source=chatgpt.com
+https://developers.openai.com/api/docs/models/text-embedding-3-large?utm_source=chatgpt.com
 
 Santi scores:
 https://www.geeksforgeeks.org/machine-learning/recommendation-system-in-python/
