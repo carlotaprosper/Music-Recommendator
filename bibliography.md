@@ -10,15 +10,6 @@ https://alicege005.medium.com/creating-a-simple-recommendation-system-based-on-t
 https://numpy.org/devdocs/reference/generated/numpy.save.html
 
 
-Easter Egg:
-https://www.geeksforgeeks.org/python/how-to-make-api-calls-using-python/
-https://yt.lemnoslife.com
-view-source:https://www.youtube.com/@elBananeroOficial/posts #Grab ID of Bananero's Channel
-https://developers.google.com/youtube/v3/docs/search/list 
-https://stackoverflow.com/questions/73575311/how-to-render-local-image-in-pandas-dataframe#:~:text=1%20Answer&text=If%20I%20export%20the%20dataframe,rendered%20in%20the%20HTML%20table
-
-
-
 Models:
 https://ai.google.dev/gemini-api/docs/embeddings?hl=es-419
 https://huggingface.co/BAAI/bge-m3
